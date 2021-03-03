@@ -8,6 +8,8 @@
     background-size: cover;
   }
 
+  /* used fonts */
+
   @font-face {
     font-family: 'LEMONMILK';
     src: url('../assets/lemon_milk/LEMONMILK-Bold.otf') format('embedded-opentype'), /* Internet Explorer */
