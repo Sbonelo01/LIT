@@ -61,7 +61,7 @@
   padding: 76px 78.5px 200px 79.5px;
   border-radius: 10px;
   box-shadow: -3px 3px 10px 0 rgba(20, 1, 45, 0.2);
-  /* background-color: #e9c0e9; */
-  background-color: black;
+  background-color: #e9c0e9;
+  /* background-color: black; */
   opacity: 0;
 }
