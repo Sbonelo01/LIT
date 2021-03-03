@@ -55,13 +55,13 @@
 /* mobile button */
 
 .mobile-button {
-  width: 174px;
-  height: 88px;
-  margin: 521px 0 18px 106px;
-  padding: 26px 48.5px 190px 79.5px;
+  width: 200px;
+  height: 78px;
+  margin: 521px 0 38px 75px;
+  padding: 76px 78.5px 200px 79.5px;
   border-radius: 10px;
   box-shadow: -3px 3px 10px 0 rgba(20, 1, 45, 0.2);
   /* background-color: #e9c0e9; */
   background-color: black;
-  /* opacity: 0; */
+  opacity: 0;
 }
