@@ -39,12 +39,25 @@
 
 .rectangle-3 {
   width: 360px;
-  height: 108px;
+  height: 115px;
   margin: 85px 156px 155px -1047px;
   padding: 33px 136px 32px;
   border-radius: 14px;
   -webkit-backdrop-filter: blur(30px);
   backdrop-filter: blur(30px);
+  box-shadow: -3px 3px 10px 0 rgba(20, 1, 45, 0.2);
+  background-color: #e9c0e9;
+  opacity: 0;
+}
+
+/* mobile button */
+
+.mobile-button {
+  width: 144px;
+  height: 36px;
+  margin: 541px 0 18px 106px;
+  padding: 6px 48.5px 6px 49.5px;
+  border-radius: 10px;
   box-shadow: -3px 3px 10px 0 rgba(20, 1, 45, 0.2);
   background-color: #e9c0e9;
   opacity: 0;
