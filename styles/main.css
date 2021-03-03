@@ -56,9 +56,10 @@
   width: 144px;
   height: 46px;
   margin: 541px 0 18px 106px;
-  padding: 6px 48.5px 6px 49.5px;
+  padding: 26px 48.5px 46px 59.5px;
   border-radius: 10px;
   box-shadow: -3px 3px 10px 0 rgba(20, 1, 45, 0.2);
   background-color: #e9c0e9;
+  /* background-color: black; */
   opacity: 0;
 }
